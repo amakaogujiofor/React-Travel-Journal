@@ -47,8 +47,12 @@ svg {
 .post-img {
   margin-bottom: 0.5em;
   width: 150px;
-  /* height: 100%; */
   border-radius: 8px;
+  transition: all 1s ease-out;
+}
+
+.post-img:hover {
+  transform: scale(1.1);
 }
 
 .post-title {
