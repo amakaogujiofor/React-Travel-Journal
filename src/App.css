@@ -68,6 +68,7 @@ svg {
 
 .top-section {
   margin: 0.7em 0.7em 0.2em 0.7em;
+  width: 100%;
 }
 
 .bottom-section {
@@ -80,13 +81,13 @@ svg {
   letter-spacing: 2px;
   font-size: 0.6em;
   font-weight: light;
-  padding-right: 1em;
+  padding-right: 0.5em;
 }
 
 .gmaps-link {
   text-decoration: underline;
   color: rgba(128, 128, 128, 0.726);
-  font-size: 0.6rem;
+  font-size: 0.5rem;
   letter-spacing: 1px;
 }
 
@@ -125,5 +126,17 @@ p {
 
   .bottom-section {
     width: 400px;
+  }
+
+  .gmaps-link {
+    font-size: 0.8rem;
+  }
+
+  .post-title {
+    font-size: 2rem;
+  }
+
+  .city {
+    font-size: 0.7rem;
   }
 }

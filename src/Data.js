@@ -32,7 +32,7 @@ export default [
     startDate: "12 Jan, 2020",
     endDate: "24 Jan, 2020",
     description:
-      " Venice, Italy's tourist destination par excellence, Venice has become a bellwether for the country and Europe more broadly.Venice and its mainland are particularly rich of museums and historical buildings of great artistic and cultural importance.",
+      " Venice, Italy's tourist destination par excellence, Venice has become a bellwether for the country and Europe more broadly.Its mainland are particularly rich of historical buildings of great artistic and cultural importance.",
     imageUrl: "./Italy2.jpg",
   },
 ];
