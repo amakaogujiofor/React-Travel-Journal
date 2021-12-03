@@ -26,9 +26,10 @@ svg {
 
 .nav-title {
   color: #fff;
-  font-size: 400;
+  font-size: 700;
+  font-weight: lighter;
   padding-left: 0.4em;
-  text-transform: lowercase;
+  text-transform: capitalize;
 }
 
 /* Blog Section */
