@@ -1,6 +1,8 @@
 /* eslint-disable import/no-anonymous-default-export */
+
 export default [
   {
+    id: 1,
     title: "Dakar",
     location: "Senegal",
     googleMapsUrl: "https://bit.ly/3IdoAI2",
@@ -8,9 +10,10 @@ export default [
     endDate: "24 Jan, 2020",
     description:
       "Dakar, the capital and largest city of Senegal, is located on the Cap-Vert peninsula on the Atlantic coast, and is the westernmost city on the African mainland. The Senegalese people are excited to share their beautiful culture with tourists and treat visitors with the utmost respect",
-    imageUrl: "./Dakar.png",
+    imageUrl: "./Senegal.jpg",
   },
   {
+    id: 2,
     title: "Athens",
     location: "Greece",
     googleMapsUrl: "https://bit.ly/32XMEi3",
@@ -22,6 +25,7 @@ export default [
   },
 
   {
+    id: 3,
     title: "Venice",
     location: "Italy",
     googleMapsUrl: "https://bit.ly/3IdoAI2",
