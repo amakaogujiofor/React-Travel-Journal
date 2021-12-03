@@ -9,7 +9,7 @@ function App() {
     return <Blog key={data.id} {...data} />;
   });
   return (
-    <div className="App">
+    <div className="app">
       <Header />
       {Posts}
     </div>

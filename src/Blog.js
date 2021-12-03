@@ -37,7 +37,13 @@ export default function Blog(props) {
             View on Google Maps
           </a>
         </section>
-        <h1>{props.title}</h1>
+        <section className="bottom-section">
+          <h1 className="post-title">{props.title}</h1>{" "}
+          <span className="duration">
+            {props.startDate} - {props.endDate}
+          </span>
+          <p>{props.description}</p>
+        </section>
       </div>
     </section>
   );
